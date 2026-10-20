@@ -1,0 +1,15 @@
+{
+  "best_model_name": "Logistic Regression (tuned)",
+  "best_params": {
+    "clf__C": 3.0,
+    "prep__tfidf__max_features": 8000,
+    "prep__tfidf__ngram_range": [
+      1,
+      1
+    ]
+  },
+  "test_accuracy": 0.799080761654629,
+  "test_precision": 0.7861842105263158,
+  "test_recall": 0.7308868501529052,
+  "test_f1": 0.757527733755943
+}
